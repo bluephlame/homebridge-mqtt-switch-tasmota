@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-mqtt-switch-tasmota",
+  "name": "@bluephlame/homebridge-mqtt-switch-tasmota",
   "version": "0.9.5",
   "description": "Plugin to HomeBridge optimized for work with Itead Sonoff and Electrodragon Relay Board hardware with firmware Sonoff-Tasmota via MQTT.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MacWyznawca/homebridge-mqtt-switch-tasmota.git"
+    "url": "git+https://github.com/bluephlame/homebridge-gpio-garagedoor.git"
   },
   "dependencies": {
     "mqtt": "^1.12.0"
@@ -32,7 +32,7 @@
   "author": "Jaromir Kopp",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MacWyznawca/homebridge-mqtt-switch-tasmota/issues"
+    "url": "https://github.com/bluephlame/homebridge-gpio-garagedoor.git/issues"
   },
-  "homepage": "https://github.com/MacWyznawca/homebridge-mqtt-switch-tasmota#readme"
+  "homepage": "https://github.com/bluephlame/homebridge-gpio-garagedoor.git#readme"
 }
